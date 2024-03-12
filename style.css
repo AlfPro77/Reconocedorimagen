@@ -1,0 +1,18 @@
+.heading{
+    width:100%;
+    font-size:30px;
+    background-color: beige;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+body{
+    background-color:rgb(128, 221, 209);
+}
+.Objetos{
+    color:blue;
+}
+
+#result_objet_accuracy, #result_objet_name{
+    color:brown;
+}
+
